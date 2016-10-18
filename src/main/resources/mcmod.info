@@ -1,0 +1,16 @@
+[
+{
+  "modid": "examplemod",
+  "name": "Mod Test By Derya",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["狐狸酱","lilei","Hanmeimei"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

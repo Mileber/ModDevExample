@@ -19,3 +19,6 @@ b站投稿的mod开发教程源码，会随着视频更新。
 
 ### 6. 合成篇
 地址：http://www.bilibili.com/video/av6662901/
+
+### 7. 语言文件
+地址：http://www.bilibili.com/video/av6875170/

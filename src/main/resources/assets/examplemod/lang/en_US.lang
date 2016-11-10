@@ -1,0 +1,7 @@
+<en_US.lang-English localization file for the mod ExampleMod >
+tile.my_first_block.name=LeiMuBlock
+item.my_first_item.name=SevenColorRock
+item.pineapple.name=Pineapple
+item.apple_pen.name=ApplePen
+item.pen.name=Pen
+item.pineapple_pen.name=PineapplePen

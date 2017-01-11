@@ -22,3 +22,6 @@ b站投稿的mod开发教程源码，会随着视频更新。
 
 ### 7. 语言文件
 地址：http://www.bilibili.com/video/av6875170/
+
+### 8. Model文件
+地址：http://www.bilibili.com/video/av7185973/

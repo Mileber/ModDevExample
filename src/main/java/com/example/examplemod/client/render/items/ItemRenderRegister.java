@@ -17,6 +17,11 @@ public final class ItemRenderRegister {
 		reg(ModItems.ApplePen);
 		reg(ModItems.Pen);
 		reg(ModItems.PineapplePen);
+		reg(ModItems.tutorialAxe);
+		reg(ModItems.tutorialHoe);
+		reg(ModItems.tutorialPickaxe);
+		reg(ModItems.tutorialSpade);
+		reg(ModItems.tutorialSword);
 	}
 	
 	public static void reg(Item item){

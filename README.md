@@ -25,3 +25,6 @@ b站投稿的mod开发教程源码，会随着视频更新。
 
 ### 8. Model文件
 地址：http://www.bilibili.com/video/av7185973/
+
+### 9. 武器与工具定制
+地址：http://www.bilibili.com/video/av8137110/

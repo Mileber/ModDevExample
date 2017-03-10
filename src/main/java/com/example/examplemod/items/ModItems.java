@@ -2,6 +2,8 @@ package com.example.examplemod.items;
 
 import net.minecraft.item.Item;
 import net.minecraft.item.Item.ToolMaterial;
+import net.minecraft.potion.Potion;
+import net.minecraft.potion.PotionEffect;
 import net.minecraftforge.common.util.EnumHelper;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 
@@ -19,6 +21,8 @@ public final class ModItems {
 	public static Item tutorialHoe;
 	public static Item tutorialSword;
 	
+	public static Item babaoDuck;
+	
 	public static void createItems(){
 		GameRegistry.registerItem(MyFirstItem = new BasicItem("my_first_item").setRegistryName("my_first_item"));
 		//for ppap
@@ -33,6 +37,10 @@ public final class ModItems {
 		GameRegistry.registerItem(tutorialSpade = new ItemModSpade("tutorial_spade", TUTORIAL), "tutorial_spade");
 		GameRegistry.registerItem(tutorialHoe = new ItemModHoe("tutorial_hoe", TUTORIAL), "tutorial_hoe");
 		GameRegistry.registerItem(tutorialSword = new ItemModSword("tutorial_sword", TUTORIAL), "tutorial_sword");
+		
+		//食物
+		GameRegistry.registerItem(babaoDuck = new ItemModFood("babao_duck", 8, 1.2f, false
+				).setAlwaysEdible(), "babao_duck");
 	}
 	
 	//各个工具通用的ToolMaterial

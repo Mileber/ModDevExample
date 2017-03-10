@@ -22,6 +22,7 @@ public final class ItemRenderRegister {
 		reg(ModItems.tutorialPickaxe);
 		reg(ModItems.tutorialSpade);
 		reg(ModItems.tutorialSword);
+		reg(ModItems.babaoDuck);
 	}
 	
 	public static void reg(Item item){

@@ -1,35 +1,37 @@
-[20:44:13] [Client thread/INFO]: Setting user: Player752
-[20:44:16] [Client thread/WARN]: Skipping bad option: lastServer:
-[20:44:16] [Client thread/INFO]: LWJGL Version: 2.9.4
-[20:44:19] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Mod Test By Derya, FMLFileResourcePack:Item Transform Helper
-[20:44:22] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[20:44:23] [Thread-8/INFO]: Initializing LWJGL OpenAL
-[20:44:23] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[20:44:23] [Thread-8/INFO]: OpenAL initialized.
-[20:44:23] [Sound Library Loader/INFO]: Sound engine started
-[20:44:27] [Client thread/INFO]: Created: 16x16 textures-atlas
-[20:44:28] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Mod Test By Derya, FMLFileResourcePack:Item Transform Helper
-[20:44:30] [Client thread/INFO]: SoundSystem shutting down...
-[20:44:31] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[20:44:31] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[20:44:31] [Thread-10/INFO]: Initializing LWJGL OpenAL
-[20:44:31] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[20:44:31] [Thread-10/INFO]: OpenAL initialized.
-[20:44:31] [Sound Library Loader/INFO]: Sound engine started
-[20:44:34] [Client thread/INFO]: Created: 1024x512 textures-atlas
-[20:44:35] [Client thread/WARN]: Skipping bad option: lastServer:
-[20:44:38] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[20:44:43] [Server thread/INFO]: Starting integrated minecraft server version 1.10.2
-[20:44:43] [Server thread/INFO]: Generating keypair
-[20:44:43] [Server thread/INFO]: Preparing start region for level 0
-[20:44:44] [Server thread/INFO]: Changing view distance to 12, from 10
-[20:44:46] [Server thread/INFO]: Player752[local:E:e2178166] logged in with entity id 79 at (118.73407809692641, 4.0, 752.9386173841747)
-[20:44:46] [Server thread/INFO]: Player752加入了游戏
-[20:44:47] [Server thread/INFO]: Saving and pausing game...
-[20:44:47] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
-[20:44:47] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
-[20:44:47] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
-[20:44:47] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@67a85489[id=bc3e28b6-7ce2-3598-9156-cbc22efaa5b0,name=Player752,properties={},legacy=false]
+[13:05:32] [Client thread/INFO]: Setting user: Player312
+[13:05:37] [Client thread/WARN]: Skipping bad option: lastServer:
+[13:05:37] [Client thread/INFO]: LWJGL Version: 2.9.4
+[13:05:40] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Mod Test By Derya, FMLFileResourcePack:Item Transform Helper
+[13:05:44] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:05:44] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[13:05:44] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:05:45] [Thread-8/INFO]: OpenAL initialized.
+[13:05:45] [Sound Library Loader/INFO]: Sound engine started
+[13:05:49] [Client thread/INFO]: Created: 16x16 textures-atlas
+[13:05:51] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Mod Test By Derya, FMLFileResourcePack:Item Transform Helper
+[13:05:54] [Client thread/INFO]: SoundSystem shutting down...
+[13:05:55] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[13:05:55] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:05:55] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[13:05:55] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:05:55] [Thread-10/INFO]: OpenAL initialized.
+[13:05:55] [Sound Library Loader/INFO]: Sound engine started
+[13:05:59] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[13:06:00] [Client thread/WARN]: Skipping bad option: lastServer:
+[13:06:17] [Server thread/INFO]: Starting integrated minecraft server version 1.10.2
+[13:06:17] [Server thread/INFO]: Generating keypair
+[13:06:18] [Server thread/INFO]: Preparing start region for level 0
+[13:06:19] [Server thread/INFO]: Preparing spawn area: 19%
+[13:06:20] [Server thread/INFO]: Changing view distance to 12, from 10
+[13:06:23] [Server thread/INFO]: Player312[local:E:18344803] logged in with entity id 334 at (-124.58254648131106, 70.0, 243.6526524776766)
+[13:06:23] [Server thread/INFO]: Player312加入了游戏
+[13:06:24] [Server thread/INFO]: Saving and pausing game...
+[13:06:24] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[13:06:24] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[13:06:24] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[13:06:24] [Server thread/INFO]: Saving and pausing game...
+[13:06:24] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[13:06:24] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@34ba9a6e[id=d566deca-6b21-32cb-af90-4edf09eeac2e,name=Player312,properties={},legacy=false]
 com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
 	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:65) ~[YggdrasilAuthenticationService.class:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:175) [YggdrasilMinecraftSessionService.class:?]
@@ -51,44 +53,21 @@ com.mojang.authlib.exceptions.AuthenticationException: The client has sent too m
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_102]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_102]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_102]
-[20:45:00] [Server thread/INFO]: [Player752: 您的游戏模式已被设置为创造模式 ]
-[20:45:00] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
-[20:45:01] [Server thread/INFO]: Player752刚刚获得了[打开物品栏]成就！
-[20:45:01] [Client thread/INFO]: [CHAT] Player752刚刚获得了[打开物品栏]成就！
-[20:45:53] [Server thread/INFO]: Saving and pausing game...
-[20:45:53] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
-[20:45:53] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
-[20:45:53] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
-[20:45:57] [Server thread/INFO]: Saving and pausing game...
-[20:45:57] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
-[20:45:57] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
-[20:45:57] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
-[20:46:03] [Server thread/INFO]: Saving and pausing game...
-[20:46:03] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
-[20:46:03] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
-[20:46:03] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
-[20:47:42] [Server thread/INFO]: Saving and pausing game...
-[20:47:42] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
-[20:47:42] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
-[20:47:42] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
-[20:47:53] [Server thread/INFO]: Saving and pausing game...
-[20:47:53] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
-[20:47:53] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
-[20:47:53] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
-[20:48:22] [Server thread/INFO]: Saving and pausing game...
-[20:48:22] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
-[20:48:22] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
-[20:48:22] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
-[20:50:24] [Server thread/INFO]: Saving and pausing game...
-[20:50:24] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
-[20:50:24] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
-[20:50:24] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
-[20:59:03] [Server thread/INFO]: Stopping server
-[20:59:03] [Server thread/INFO]: Saving players
-[20:59:03] [Server thread/INFO]: Saving worlds
-[20:59:03] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
-[20:59:03] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
-[20:59:03] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
-[20:59:04] [Client thread/INFO]: Stopping!
-[20:59:04] [Client thread/INFO]: SoundSystem shutting down...
-[20:59:04] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[13:06:24] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[13:06:24] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[13:06:38] [Server thread/INFO]: Player312刚刚获得了[打开物品栏]成就！
+[13:06:38] [Client thread/INFO]: [CHAT] Player312刚刚获得了[打开物品栏]成就！
+[13:06:55] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[13:07:06] [Server thread/INFO]: Saving and pausing game...
+[13:07:06] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[13:07:07] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[13:07:07] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[13:07:07] [Server thread/INFO]: Stopping server
+[13:07:07] [Server thread/INFO]: Saving players
+[13:07:07] [Server thread/INFO]: Saving worlds
+[13:07:07] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[13:07:07] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[13:07:07] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[13:07:09] [Client thread/INFO]: Stopping!
+[13:07:09] [Client thread/INFO]: SoundSystem shutting down...
+[13:07:09] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
